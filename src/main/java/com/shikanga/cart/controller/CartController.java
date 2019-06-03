@@ -1,4 +1,4 @@
-package com.shikanga.cart.controllers;
+package com.shikanga.cart.controller;
 
 import com.shikanga.cart.model.Cart;
 import com.shikanga.cart.model.Product;
